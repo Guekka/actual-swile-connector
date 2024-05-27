@@ -1,0 +1,19 @@
+{
+    "name": "actual-swile-importer",
+    "module": "src/main.ts",
+    "type": "module",
+    "scripts": {
+        "start": "tsx src/main.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.12",
+        "tsx": "^4.11.0"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@actual-app/api": "^6.8.0",
+        "playwright": "=1.40.0"
+    }
+}
