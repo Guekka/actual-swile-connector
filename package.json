@@ -13,7 +13,7 @@
         "typescript": "^5.0.0"
     },
     "dependencies": {
-        "@actual-app/api": "^6.8.0",
+        "@actual-app/api": "^6.8.2",
         "playwright": "=1.40.0"
     }
 }

@@ -2,18 +2,18 @@
 # yarn lockfile v1
 
 
-"@actual-app/api@^6.8.0":
-  version "6.8.0"
-  resolved "https://registry.yarnpkg.com/@actual-app/api/-/api-6.8.0.tgz#4ab728c608703425f265c3c8a70ad8107f5ad74d"
-  integrity sha512-ZYCsNiAR5rmZ1v+w3zaS5HQF8r1mwf9hT2ABtLq1XrG069bAFnuzhXu2DFYBUs6YzpX/oSR7tuJVIjJ+19092g==
+"@actual-app/api@^6.8.2":
+  version "6.8.2"
+  resolved "https://registry.yarnpkg.com/@actual-app/api/-/api-6.8.2.tgz#827b79986cb4ea5856eb7f4b2e32f5ec1b8b1e96"
+  integrity sha512-BI9Zqip6eBRwmgQjDgXHpPSIJYsbm6e+Yyyvj9sNRn9GbWZr7WXsA8SySlIOZH/8EsA6DpS7CIW0RfOMWuLEcg==
   dependencies:
-    "@actual-app/crdt" "workspace:^"
+    "@actual-app/crdt" "^2.1.0"
     better-sqlite3 "^9.6.0"
     compare-versions "^6.1.0"
     node-fetch "^3.3.2"
     uuid "^9.0.1"
 
-"@actual-app/crdt@workspace:^":
+"@actual-app/crdt@^2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@actual-app/crdt/-/crdt-2.1.0.tgz#92ad965406b6772483edc4441a57292caa503225"
   integrity sha512-Qb8hMq10Wi2kYIDj0fG4uy00f9Mloghd+xQrHQiPQfgx022VPJ/No+z/bmfj4MuFH8FrPiLysSzRsj2PNQIedw==
